@@ -1,0 +1,21 @@
+body{
+    color: #0a2ff1;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    background-color:  #3ffff3;
+}
+img {
+    position: absolute;
+    height: 300px;
+    width: 200px;
+}
+img:last-child {
+    z-index: -1;
+}

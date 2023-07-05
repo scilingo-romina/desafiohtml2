@@ -1,0 +1,33 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+    color: #04146c}
+main{
+    width: 50%;
+}
+div>img{
+    width: 600px;
+}
+main>p {
+    background-color: #edf7ff;
+}
+main>h1{
+    font-size: 70px;
+}
+main>h2{
+    background-color: #04146c;
+    color: white;
+}
+
+.wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    text-align: center;
+    width:80rem;
+  }
+  .content {
+    text-align: center;
+    border: 2px solid #ddd;
+  }
+
+  

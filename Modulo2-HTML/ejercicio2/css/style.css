@@ -1,0 +1,22 @@
+p{
+font-family: 'Poppins', sans-serif;
+color:  #0a2ff1;
+font-size: 36px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+div>img{
+height: 20px;
+width: 100px;
+margin: 15px;
+}
+
+.contenedor{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
